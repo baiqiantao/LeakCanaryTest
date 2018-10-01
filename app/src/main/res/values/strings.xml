@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LeakCanary</string>
+    <string name="leak_canary_display_activity_label">内存泄漏监测</string>
+</resources>
