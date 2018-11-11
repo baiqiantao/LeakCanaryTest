@@ -10,6 +10,7 @@ public class TogglableHeapDumper implements HeapDumper {
 	
 	public TogglableHeapDumper(HeapDumper defaultDumper) {
 		this.defaultDumper = defaultDumper;
+
 	}
 	
 	public void setEnabled(boolean enabled) {
